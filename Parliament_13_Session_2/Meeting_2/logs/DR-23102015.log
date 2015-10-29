@@ -1,0 +1,113 @@
+PROCESSING DR-23102015 in /Users/leow/Desktop/PROJECTS/SINARPROJECT/parliamentmy-split/
+Inside the function processHansardFile with meta of all
+PROCESSING DR-23102015 in /Users/leow/Desktop/PROJECTS/SINARPROJECT/parliamentmy-split/
+Title is: Rang Undang-undang Perbekalan 2016
+Start Page is: 1
+Title is: Anggaran Pembangunan 2016
+Start Page is: 31
+Sorted Pages and Title
+=======================
+Calculated block starting at page 1 end at page 30
+FINALLY: Block starting at page 31 end at page 31
+Copying to the file Rang Undang undang Perbekalan 2016.pdf starting from page 2 till page 31
+Copying to the file Anggaran Pembangunan 2016.pdf starting from page 32 till page 32
+Copying to the file 0-intro.pdf starting from page 1 till page 1
+For current block with title: Rang Undang undang Perbekalan 2016 start page is 2 and end page is 31
+Page 2
+===========
+Found at least one speaker :) ... replacing >>> 
+Page 3
+===========
+Found no speaker; assign to previous identified speaker ==> ABDUL_RAZAK
+Page 4
+===========
+Found no speaker; assign to previous identified speaker ==> ABDUL_RAZAK
+Page 5
+===========
+Found no speaker; assign to previous identified speaker ==> ABDUL_RAZAK
+Page 6
+===========
+Found at least one speaker :) ... replacing >>> 
+Page 7
+===========
+Found no speaker; assign to previous identified speaker ==> II_PENGENAAN_GST_PADA_KADAR_SIFAR_KE_ATAS_BARANGAN_MAKANAN_BERIKUT
+Page 8
+===========
+Found at least one speaker :) ... replacing >>> 
+Page 9
+===========
+Found at least one speaker :) ... replacing >>> 
+Page 10
+===========
+Found at least one speaker :) ... replacing >>> 
+Page 11
+===========
+Found at least one speaker :) ... replacing >>> 
+Page 12
+===========
+Found at least one speaker :) ... replacing >>> 
+Page 13
+===========
+Found at least one speaker :) ... replacing >>> 
+Page 14
+===========
+Found at least one speaker :) ... replacing >>> 
+Page 15
+===========
+Found at least one speaker :) ... replacing >>> 
+Page 16
+===========
+Found at least one speaker :) ... replacing >>> 
+Page 17
+===========
+Found at least one speaker :) ... replacing >>> 
+Page 18
+===========
+Found at least one speaker :) ... replacing >>> 
+Page 19
+===========
+Found at least one speaker :) ... replacing >>> 
+Page 20
+===========
+Found at least one speaker :) ... replacing >>> 
+Page 21
+===========
+Found at least one speaker :) ... replacing >>> 
+Page 22
+===========
+Found at least one speaker :) ... replacing >>> 
+Page 23
+===========
+Found at least one speaker :) ... replacing >>> 
+Page 24
+===========
+Found at least one speaker :) ... replacing >>> 
+Page 25
+===========
+Found no speaker; assign to previous identified speaker ==> YANG_AKAN_DILAKSANAKAN_ADALAH
+Page 26
+===========
+Found at least one speaker :) ... replacing >>> 
+Page 27
+===========
+Found at least one speaker :) ... replacing >>> 
+Page 28
+===========
+Found at least one speaker :) ... replacing >>> 
+Page 29
+===========
+Found no speaker; assign to previous identified speaker ==> KERAJAAN_PERINCIKAN_DARI_SEMASA_KE_SEMASA_DALAM_HAL_INI_SUKACITA_SAYA_UMUMKAN
+Page 30
+===========
+Found no speaker; assign to previous identified speaker ==> KERAJAAN_PERINCIKAN_DARI_SEMASA_KE_SEMASA_DALAM_HAL_INI_SUKACITA_SAYA_UMUMKAN
+Page 31
+===========
+Found at least one speaker :) ... replacing >>> 
+Page 32
+===========
+Found at least one speaker :) ... replacing >>> 
+For current block with title: Anggaran Pembangunan 2016 start page is 32 and end page is 32
+Page 32
+===========
+Found at least one speaker :) ... replacing >>> 
+Final ERR Count: 24

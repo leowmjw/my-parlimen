@@ -1,7 +1,16 @@
+# Ignore PDFs
 .[pP][dD][fF]
-*/.[pP][dD][fF]
-*/*/.[pP][dD][fF]
-.*/.*/.*/.*.[pP][dD][fF]
-*/*/*/*/.[pP][dD][fF]
-*/*/*/*/*/.[pP][dD][fF]
+/*/*.[pP][dD][fF]
+/*/*/*.[pP][dD][fF]
+/*/*/*/*.[pP][dD][fF]
+/*/*/*/*/*.[pP][dD][fF]
+/*/*/*/*/*/*.[pP][dD][fF]
+
+# Ignore zip files
+.[zZ][iI][pP]
+/*/*.[zZ][iI][pP]
+/*/*/*.[zZ][iI][pP]
+/*/*/*/*.[zZ][iI][pP]
+/*/*/*/*/*.[zZ][iI][pP]
+/*/*/*/*/*/*.[zZ][iI][pP]
 
